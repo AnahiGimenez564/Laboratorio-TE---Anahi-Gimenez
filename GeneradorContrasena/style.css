@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #89bb88;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.generador {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+button {
+    background-color: #89bb88;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    background-color: yellow;
+}
